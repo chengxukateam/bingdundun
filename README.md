@@ -1,3 +1,28 @@
+
+# 使用方法
+
+## 下载代码
+
+```
+git clone git@github.com:chengxukateam/bingdundun.git
+```
+
+## 安装包
+
+```
+cd bingdundun
+```
+
+## 运行
+```
+npm run start
+```
+
+
+
+
+
+
 # Three.js 实现2022冬奥主题3D趣味页面，一只萌萌的冰墩墩送给大家 🐼
 
 ![banner](./images/banner.gif)
